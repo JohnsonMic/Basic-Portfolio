@@ -1,5 +1,5 @@
 body{
-	    background: url(https://www.toptal.com/designers/subtlepatterns/patterns/halftone-yellow.png);
+	    background: url(http://www.photographymad.com/files/images/woodland.jpg);
 }
 #container{
 	width: 960px;
@@ -9,7 +9,7 @@ img{
 	width: 300px;
 }
 #main-content{
-	background-color: white;
+	background-color: gray;
 
 }
 header{
